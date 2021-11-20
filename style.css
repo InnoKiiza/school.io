@@ -1,0 +1,55 @@
+.edit{
+    background-color: rgb(241, 12, 12);
+    position: fixed;
+    font-size: larger;
+    font-family: tahoma;
+    cursor: pointer;
+    border-radius: 10px;
+    padding-top: 4px;
+    right: 8px;
+    top: 12px;
+    justify-content: space-between;    
+}
+body{
+    background-color: rgb(186, 243, 28); 
+}
+.heading{
+    text-align: center;
+    transform: translateY(-70px);
+       
+}
+table{
+    border: 10px;
+}
+    
+
+.middleshape{
+    width: 90%;
+    height: 90%;
+    color: green;
+    position: absolute;
+}
+#line{
+    transform: translateY(-90px);
+}
+img{
+    position: fixed;
+    top:4px;
+    left:2px;
+    size: 50%;
+    border-radius: 5%;
+}
+.topbar{
+    width:100vmax;
+    height: 50px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-color: rgb(100, 35, 86);
+}
+span{
+    justify-content: space-between;
+    cursor: pointer;
+    position: absolute;
+    background-color: rgb(206, 22, 22);
+}
